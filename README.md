@@ -24,4 +24,4 @@ function!
 Note: This lab might require you to restart the test watcher after changing your code.
 
 ## Resources
-- [React: TypeChecking with PropTypes](https://facebook.github.io/react/docs/typechecking-with-proptypes.html)
+- [React: TypeChecking with PropTypes](https://facebook.github.io/react/docs/typechecking-with-proptypes.html)<p data-visibility='hidden'>PHRG React PropTypes Lab</p>
